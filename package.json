@@ -1,14 +1,14 @@
 {
   "name": "code_coverage_example",
   "version": "1.0.0",
-  "description": "Example Code Example using Jest Code Coverage",
+  "description": "Example Code Example using Istanbul Code Coverage",
   "license": "ISC",
   "author": "Brian Kwong",
   "type": "commonjs",
   "main": "merge.js",
   "scripts": {
     "test": "jest",
-    "coverage": "nyc --reporter=html jest"
+    "coverage": "nyc --clean jest --coverage"
   },
   "devDependencies": {
     "jest": "^29.7.0",
