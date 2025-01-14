@@ -14,7 +14,7 @@ To run the example program locally ensure you have the following prerequisites i
 - [NodeJS and npm](https://nodejs.org/en/download)  
 - [Git](https://git-scm.com/downloads) w/ your [GitHub credentials linked](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)  
 - A text editor (Suggested is [VS Code](https://code.visualstudio.com/download))  
-- \[Reccomended\] [Prettier](https://prettier.io/docs/en/install.html)
+- \[Recommended\] [Prettier](https://prettier.io/docs/en/install.html)
 
 1. Go to the directory where you would like to work on the application `cd <directory path>`  and clone the project `git clone https://github.com/Brian-Kwong/Code_Coverage_Example`  
 2. Change to that directory `cd ./Code_Coverage_Example/src`  
