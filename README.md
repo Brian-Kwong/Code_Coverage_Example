@@ -17,7 +17,7 @@ To run the example program locally ensure you have the following prerequisites i
 - \[Reccomended\] [Prettier](https://prettier.io/docs/en/install.html)
 
 1. Go to the directory where you would like to work on the application `cd <directory path>`  and clone the project `git clone https://github.com/Brian-Kwong/Code_Coverage_Example`  
-2. Change to that directory `cd ./Code_Coverage_Example`  
+2. Change to that directory `cd ./Code_Coverage_Example/src`  
 3. Run `npm i` to install all necessary node packages   
 4. To run the unit tests run `npm test`
 5. Depending on which coverage library you would like to use you will run two different commands 
