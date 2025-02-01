@@ -2,7 +2,7 @@
 
 ---
 
-## The following repository contains the slideshow and source code for a presentation given on code coverage in software engineering and development.
+The following repository contains the slideshow and source code for a presentation given on code coverage in software engineering and development.
 
 - Source code files can be found in the `./src` folder
 - The presentation is hosted in `index.html` && `./assets` folder
